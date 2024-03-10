@@ -1,0 +1,12 @@
+#header {
+    background: linear-gradient(45deg, black, grey);
+    /* margin-bottom:0; */
+  }
+  #header ul li {
+    display: inline-block;
+  }
+  #header ul li a {
+    display: block;
+    margin: 2vh 4vw;
+    color: aliceblue;
+  }

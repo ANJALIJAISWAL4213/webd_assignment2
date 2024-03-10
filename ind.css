@@ -1,0 +1,20 @@
+.first {
+    float: left;
+    width: 50vw;
+    height: 100vh;
+    /* margin-top:0; */
+  }
+  img {
+    /* width:100%; */
+    clip-path: circle(50% at 10% 10%);
+  }
+  .content {
+    float: left;
+    margin-top: 20vh;
+    margin-left: 15vw;
+    /* color:aliceblue; */
+  }
+  iframe {
+    width: 100%;
+    margin: 0px auto;
+  }
